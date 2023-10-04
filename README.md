@@ -1,7 +1,6 @@
-# Excel_Projects
-Business Analytics With Excel
+# E-Commerce Sales Dashboard
 -----------------------------------
-E-Commerce Sales Dashboard
+Business Analytics With Excel
 -----------------------------------
 
 DESCRIPTION
